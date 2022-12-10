@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+storage/worked.dat
+storage/config.ini
